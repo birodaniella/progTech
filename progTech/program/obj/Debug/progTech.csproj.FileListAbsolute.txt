@@ -1,0 +1,14 @@
+D:\c#\progTech\bin\Debug\progTech.exe.config
+D:\c#\progTech\bin\Debug\progTech.exe
+D:\c#\progTech\bin\Debug\progTech.pdb
+D:\c#\progTech\obj\Debug\progTech.csprojAssemblyReference.cache
+D:\c#\progTech\obj\Debug\progTech.csproj.CoreCompileInputs.cache
+D:\c#\progTech\obj\Debug\progTech.exe
+D:\c#\progTech\obj\Debug\progTech.pdb
+C:\Users\B.Dana\Desktop\progTech beadandó\bin\Debug\progTech.exe.config
+C:\Users\B.Dana\Desktop\progTech beadandó\bin\Debug\progTech.exe
+C:\Users\B.Dana\Desktop\progTech beadandó\bin\Debug\progTech.pdb
+C:\Users\B.Dana\Desktop\progTech beadandó\obj\Debug\progTech.csprojAssemblyReference.cache
+C:\Users\B.Dana\Desktop\progTech beadandó\obj\Debug\progTech.csproj.CoreCompileInputs.cache
+C:\Users\B.Dana\Desktop\progTech beadandó\obj\Debug\progTech.exe
+C:\Users\B.Dana\Desktop\progTech beadandó\obj\Debug\progTech.pdb
